@@ -1,9 +1,8 @@
 
 installation steps
 1. Clone the project
-2. go to applicationtest folder
-3. npm install
-4. npm run dev
+2. npm install
+3. npm run dev
 
 
 Tech used
